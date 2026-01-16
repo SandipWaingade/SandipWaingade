@@ -1,223 +1,127 @@
-<!-- Profile Header -->
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#4FC3F7;">Sandip Waingade</span>  
+# **Sandip Waingade**
 ### Backend Engineer • SQL Specialist • Techno-Functional IT Professional  
-
-🎓 MS in Data Science (Berlin) • 🎓 MCA (Mumbai) • 🏆 Best Employee 2024  
+MS in Data Science (Berlin) • MCA (Mumbai) • Best Employee Award 2024
 
 </div>
 
 ---
 
 <div align="center">
-
-I design, build, and manage **robust backend systems and SQL databases**  
-for finance and capital markets — with a **techno-functional mindset**  
-that connects **business, users, and technology**.
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="80%" />
 </div>
+
+## **About Me**
+
+I am a techno-functional IT professional with strong expertise in **SQL engineering, backend systems, and enterprise application implementation**.  
+My work blends **technical depth with business understanding**, enabling me to deliver solutions that are both technically robust and operationally effective.
+
+I have led IT teams, implemented financial applications, optimized databases, and managed full project lifecycles across finance and capital markets.  
+Currently pursuing **MS in Data Science in Berlin**, expanding into **Machine Learning, AI, and advanced analytics**.
+
+**Focus Areas:**  
+- SQL Engineering  
+- Backend Development  
+- Data Workflows  
+- ML/AI Foundations  
+- Enterprise Systems  
 
 ---
 
-## 🧠 About Me
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="60%" />
+</div>
 
-<div align="left">
-
-💼 **Techno-Functional IT Professional** with strong expertise in  
-**SQL, backend engineering, enterprise systems, and financial applications**.
-
-🧩 I work at the intersection of **technology + business**, delivering solutions that are  
-**scalable, reliable, and aligned with real-world operations**.
-
-🚀 Former **Manager – IT Department (Mirae Finance Group)** where I led a  
-**10-member team**, handled multi-application environments, vendor coordination,  
-and full project lifecycles.
-
-📊 Strong command over **SQL, database design, query optimization, data migration,  
-patch release, and production support**.
-
-🎓 Currently pursuing **MS in Data Science (Berlin)** and expanding into  
-**Machine Learning, AI, and advanced analytics**.
-
-🧠 My mindset:  
-A problem-solving mindset shaped by strong technical foundations and solid functional insight, helping me bridge gaps between users, systems, and business goals.
-
-🔍 I enjoy building systems that are **robust, scalable, and meaningful** —  
-whether it's a backend service, a data pipeline, or a full enterprise module.
-
-## ▬▬▬▬▬  Tech Stack & Badges  ▬▬▬▬▬
+## **Tech Stack & Badges**
 
 <div align="center">
-
-<!-- Modern Gradient Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="80%" />
-
-<br><br>
 
 ### Core Technical
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Database Design](https://img.shields.io/badge/Database%20Design-4CAF50?style=for-the-badge)
 ![Query Optimization](https://img.shields.io/badge/Query%20Optimization-009688?style=for-the-badge)
 
-<br>
-
 ### Backend Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-424242?style=for-the-badge)
-
-<br>
 
 ### Data Science & AI
 ![Data Science](https://img.shields.io/badge/Data%20Science-1E88E5?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7E57C2?style=for-the-badge)
 ![AI Automation](https://img.shields.io/badge/AI%20Automation-5E35B1?style=for-the-badge)
 
-<br>
-
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Enterprise Systems](https://img.shields.io/badge/Enterprise%20Applications-616161?style=for-the-badge)
 
-<br>
-
-<!-- Clean Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="60%" />
-
 </div>
 
+---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="80%" />
+</div>
 
+## **Experience**
+
+### **Manager – IT Department | Mirae Finance Group**
+- Led a 10-member IT team  
+- Managed vendor coordination and cross-department communication  
+- Implemented Class application from scratch to go-live  
+- Added modules: MTF, AP, GST  
+- Managed 5+ enterprise applications  
+- Strong focus on SQL, backend logic, and system performance  
+
+### **Senior Executive / Analyst | Exegesis**
+- Part of Marsh application implementation  
+- Delivered user training across major Indian cities  
+- Supported UAT, deployment, and post-go-live  
+- Acted as bridge between users and technical teams  
+
+### **IT Executive | IDFC Finance Group**
+- Led GST implementation  
+- Replaced legacy Class application with TCS BaNCS  
+- Managed data migration, UAT, and go-live  
+- Deep understanding of banking workflows  
 
 ---
 
-## 🏢 Experience Snapshot
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="60%" />
+</div>
 
-### 👨‍💻 Manager – IT Department | Mirae Finance Group  
-- Led a **10-member IT team**  
-- Managed **vendor coordination** and **department-wise communication**  
-- Reported regularly to **management** on IT issues and progress  
-- Implemented **Class application** from scratch to go-live  
-- Added new modules: **MTF**, **AP**, **GST**  
-- Handled 5 key applications: Class, eSigner, MStack website, KYC onboarding app, internal tools  
-- Worked deeply on **SQL database**, performance, and backend logic  
+## **Key Projects**
 
----
-
-### 👨‍💻 Senior Executive / Analyst | Exegesis  
-- Part of **Marsh application** implementation team  
-- Delivered user training across **Chennai, Delhi, Kolkata, Lucknow**  
-- Supported UAT, deployment, and post-go-live support  
-- Acted as a bridge between **users** and **technical team**  
-
----
-
-### 👨‍💻 IT Executive | IDFC Finance Group  
-- Led **GST implementation** as technical owner  
-- Replaced legacy **Class application** with **TCS BaNCS**  
-- Managed full lifecycle: **data migration → UAT → go-live**  
-- Gained deep understanding of **banking workflows**  
-
----
-
-## 🧩 Key Projects
-
-### 🏛️ GST Implementation – IDFC Finance Group  
+### GST Implementation – IDFC Finance Group  
 - Technical lead for GST module  
 - Ensured accurate tax logic and reporting  
-- Coordinated with multiple departments and vendors  
+- Coordinated with multiple departments  
 
-### 🏦 TCS BaNCS Core System Implementation  
+### TCS BaNCS Core System  
 - Replaced legacy Class application  
 - Managed data migration, UAT, and go-live  
-- Worked closely with business teams to validate flows  
 
-### 📊 Marsh Application – Exegesis  
-- Part of core implementation team  
-- Conducted end-user training across multiple cities  
+### Marsh Application – Exegesis  
+- Delivered training across multiple cities  
 - Supported testing and rollout  
 
-### 📈 Class Application – Mirae Capital Market  
-- Implemented from scratch to go-live  
-- Added **MTF**, **AP**, and **GST** modules  
-- Extracted critical processes into separate applications for better performance and control  
+### Class Application – Mirae Capital Market  
+- Implemented from scratch  
+- Added MTF, AP, GST modules  
+- Extracted critical processes into standalone apps  
 
 ---
 
-## 🛠️ Skills
-
-<div align="left">
-
-### 🔹 **Core Technical**
-- 🗄️ **SQL Server** — Database design, indexing, performance tuning  
-- 📊 **Query Optimization** — Execution plans, tuning, large data handling  
-- 🧱 **Database Architecture** — ER modeling, schema design  
-- 🔄 **Data Migration** — ETL, validation, reconciliation  
-- 🐞 **Bug Analysis & Production Support** — Root-cause, patching, hotfixes  
-
----
-
-### 🔹 **Backend Engineering**
-- 🐍 **Python** — Scripting, automation, backend logic  
-- ⚡ **FastAPI** — API development, async workflows  
-- 🔌 **REST APIs** — Design, integration, data pipelines  
-
----
-
-### 🔹 **Data Science & AI**
-- 📈 **Data Science** — Data cleaning, preprocessing, analysis  
-- 🤖 **Machine Learning** — Model building (academic)  
-- 🧠 **AI Automation** — Practical ML/AI workflows (academic)  
-
----
-
-### 🔹 **Techno-Functional**
-- 📝 **Requirement Analysis** — Translating business needs into technical tasks  
-- 🧩 **Cross-Department Coordination** — Business, users, vendors  
-- 🎤 **User Training & Support** — Workshops, onboarding  
-- 📑 **Documentation & Reporting** — Functional + technical clarity  
-
----
-
-### 🔹 **Tools & Platforms**
-- 🧰 **Git** — Version control, branching  
-- 🐧 **Linux** — Commands, server handling  
-- 🛠️ **Enterprise Applications** — Class, TCS BaNCS, Marsh, KYC systems  
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="80%" />
 </div>
 
----
+## **GitHub Stats**
 
-## 🎓 Education
-
-- **MS in Data Science** – University of Europe for Applied Sciences, Berlin (Ongoing)  
-- **MCA – Master of Computer Applications** – Mumbai University  
-
----
-
-## 📚 Academic & Study Projects
-
-- Machine Learning project  
-- AI Automation project  
-- Smart System project  
-- Sample database + API implementation using **FastAPI + SQL**  
-
----
-
-## 🏆 Achievements
-
-- 🏅 **Best Employee Award – 2024**, Mirae Finance Group  
-- ✅ Successfully implemented multiple enterprise applications in finance domain  
-- 🎤 Delivered trainings across major Indian cities  
-- 🧠 Recognized for strong **SQL** and **backend problem-solving**  
-
----
-
-## 📊 GitHub Stats
-
-> Note: Stats will improve as I add more repositories and activity.
+> Stats will update as more repositories and activity are added.
 
 <div align="center">
 
@@ -228,9 +132,8 @@ whether it's a backend service, a data pipeline, or a full enterprise module.
 
 ---
 
-## 📫 Connect With Me
-
-- **GitHub:** [SandipWaingade](https://github.com/SandipWaingade)  
-- **Email:** _add your email here_  
-- **LinkedIn:** _add your LinkedIn profile link here_  
+## **Contact**
+- GitHub: https://github.com/SandipWaingade  
+- Email: *(add your email)*  
+- LinkedIn: *(add your LinkedIn)*  
 
