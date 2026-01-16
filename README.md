@@ -138,8 +138,8 @@ I’m a techno‑functional engineer with strong expertise in SQL databases, bac
 
 ## 📊 GitHub Stats
 
-![Sandip's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Sandip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandipWaingade&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandipWaingade&layout=compact&theme=tokyonight)
 
 ---
 
