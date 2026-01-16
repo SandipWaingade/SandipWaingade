@@ -22,11 +22,24 @@ that connects **business, users, and technology**.
 
 ## 🧠 About Me
 
-- 💼 Former **Manager – IT Department** at **Mirae Finance Group (MNC)**  
-- 👥 Led a **10-member IT team** handling applications, vendors, and users  
-- 🧩 Strong in **SQL**, **database design**, **query optimization**, **patch release**, **bug handling**, **production support**  
-- 🔄 End-to-end **project implementation**: requirement → data migration → UAT → go-live → support  
-- 🧠 Techno-functional: ~**80% technology**, ~**20% functional** — perfect mix for real-world IT delivery  
+I’m a techno-functional IT professional with a strong foundation in **SQL, backend engineering, and enterprise system implementation**.  
+My work sits at the intersection of **technology, business logic, and real-world operations**, allowing me to deliver solutions that are both technically solid and business-ready.
+
+I’ve led IT teams, implemented critical financial applications, optimized databases, and managed full project lifecycles — from requirement analysis to go-live and production support.  
+My background across **finance, capital markets, and enterprise systems** gives me a deep understanding of how technology drives business outcomes.
+
+I’m currently pursuing my **MS in Data Science in Berlin**, expanding my expertise into **Machine Learning, AI, and advanced analytics**, while continuing to build strong backend and database-driven systems.
+
+### What I bring:
+- Strong command over **SQL, database design, and performance tuning**  
+- Hands-on experience with **backend systems, APIs, and data workflows**  
+- Techno-functional mindset: **80% technical + 20% business**  
+- Experience leading teams, coordinating with vendors, and training users  
+- Ability to translate business needs into **clean, scalable technical solutions**  
+- Growing expertise in **Data Science, ML, and AI automation**
+
+I enjoy building systems that are **robust, scalable, and meaningful** — whether it’s a backend service, a data pipeline, or a full enterprise module.
+ 
 
 ---
 
