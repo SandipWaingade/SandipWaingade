@@ -49,29 +49,40 @@ whether it's a backend service, a data pipeline, or a full enterprise module.
 </div>
 
 
-## 🏅 Tech Stack
+## Tech Stack & Badges
 
 <div align="center">
 
-### 🔹 Core Strengths  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Database Design](https://img.shields.io/badge/Database%20Design-4CAF50?style=for-the-badge)
-![Query Optimization](https://img.shields.io/badge/Query%20Optimization-009688?style=for-the-badge)
+<!-- Core Strengths -->
+  
+### Core Technical
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database%20Design-4CAF50?style=flat-square)
+![Query Optimization](https://img.shields.io/badge/Query%20Optimization-009688?style=flat-square)
 
-### 🔹 Backend & APIs  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<!-- Backend -->
+  
+### Backend Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-424242?style=flat-square)
 
-### 🔹 Data Science & Analytics  
-![Data Science](https://img.shields.io/badge/Data%20Science-1E88E5?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7E57C2?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/AI%20Automation-5E35B1?style=for-the-badge)
+<!-- Data Science -->
+  
+### Data Science & AI
+![Data Science](https://img.shields.io/badge/Data%20Science-1E88E5?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7E57C2?style=flat-square)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-5E35B1?style=flat-square)
 
-### 🔹 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<!-- Tools -->
+  
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Enterprise Systems](https://img.shields.io/badge/Enterprise%20Applications-616161?style=flat-square)
 
 </div>
+
 
 
 ---
