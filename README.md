@@ -1,16 +1,38 @@
-# 👋 Hi, I'm **Sandip Waingade**
-### Backend Engineer • SQL Specialist • Techno-Functional IT Professional
+<!-- Profile Header -->
+<div align="center">
 
-🎓 **MS in Data Science**, University of Europe for Applied Sciences, Berlin (Ongoing)  
-🎓 **MCA**, Mumbai University  
-🏆 **Best Employee Award – 2024 (Mirae Finance Group)**  
+# 👋 Hi, I'm <span style="color:#4FC3F7;">Sandip Waingade</span>  
+### Backend Engineer • SQL Specialist • Techno-Functional IT Professional  
 
-I’m a techno-functional IT professional with a strong focus on **SQL databases**, **backend systems**, and **enterprise application implementation**.  
-I work ~80% on technology and ~20% on functional/business side, which helps me bridge the gap between users, management, and systems.
+🎓 MS in Data Science (Berlin) • 🎓 MCA (Mumbai) • 🏆 Best Employee 2024  
+
+</div>
 
 ---
 
-## 🏅 Tech Stack & Badges
+<div align="center">
+
+I design, build, and manage **robust backend systems and SQL databases**  
+for finance and capital markets — with a **techno-functional mindset**  
+that connects **business, users, and technology**.
+
+</div>
+
+---
+
+## 🧠 About Me
+
+- 💼 Former **Manager – IT Department** at **Mirae Finance Group (MNC)**  
+- 👥 Led a **10-member IT team** handling applications, vendors, and users  
+- 🧩 Strong in **SQL**, **database design**, **query optimization**, **patch release**, **bug handling**, **production support**  
+- 🔄 End-to-end **project implementation**: requirement → data migration → UAT → go-live → support  
+- 🧠 Techno-functional: ~**80% technology**, ~**20% functional** — perfect mix for real-world IT delivery  
+
+---
+
+## 🏅 Tech Stack
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -18,64 +40,43 @@ I work ~80% on technology and ~20% on functional/business side, which helps me b
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 🚀 Professional Summary
-
-- Experience across **finance**, **capital markets**, and **enterprise IT systems**
-- Former **Manager – IT Department** at **Mirae Finance Group (MNC)**  
-- Led a **10-member IT team** handling applications, vendors, and users  
-- Strong in **SQL**, **database design**, **query optimization**, **patch release**, **bug handling**, and **production support**  
-- End-to-end **project implementation**: from requirement understanding → data migration → UAT → go-live → support  
-- Managed **5+ critical applications** in parallel  
-- Recognized for **ownership, delivery, and problem-solving**
+</div>
 
 ---
 
-## 🏢 Work Experience
+## 🏢 Experience Snapshot
 
-### 👨‍💻 Manager – IT Department  
-**Mirae Finance Group**  
-- Led a 10-member IT team  
-- Coordinated with vendors and multiple business departments  
-- Reported regularly to management on IT issues, progress, and risks  
+### 👨‍💻 Manager – IT Department | Mirae Finance Group  
+- Led a **10-member IT team**  
+- Managed **vendor coordination** and **department-wise communication**  
+- Reported regularly to **management** on IT issues and progress  
 - Implemented **Class application** from scratch to go-live  
-- Designed and added new features/modules: **MTF**, **AP**, **GST**  
-- Handled 5 key applications:  
-  - Class  
-  - eSigner  
-  - MStack website  
-  - KYC account opening app  
-  - Other internal tools  
-- Worked primarily on **SQL database**, performance, and backend logic  
+- Added new modules: **MTF**, **AP**, **GST**  
+- Handled 5 key applications: Class, eSigner, MStack website, KYC onboarding app, internal tools  
+- Worked deeply on **SQL database**, performance, and backend logic  
 
 ---
 
-### 👨‍💻 Senior Executive / Analyst  
-**Exegesis**  
-- Part of the team implementing **Marsh application**  
+### 👨‍💻 Senior Executive / Analyst | Exegesis  
+- Part of **Marsh application** implementation team  
 - Delivered user training across **Chennai, Delhi, Kolkata, Lucknow**  
 - Supported UAT, deployment, and post-go-live support  
-- Acted as a bridge between users and technical team  
+- Acted as a bridge between **users** and **technical team**  
 
 ---
 
-### 👨‍💻 IT Executive  
-**IDFC Finance Group**  
+### 👨‍💻 IT Executive | IDFC Finance Group  
 - Led **GST implementation** as technical owner  
 - Replaced legacy **Class application** with **TCS BaNCS**  
-- Managed full lifecycle:  
-  - Data migration  
-  - UAT  
-  - Go-live  
-- Gained deep understanding of **banking workflows** and processes  
+- Managed full lifecycle: **data migration → UAT → go-live**  
+- Gained deep understanding of **banking workflows**  
 
 ---
 
 ## 🧩 Key Projects
 
 ### 🏛️ GST Implementation – IDFC Finance Group  
-- Technical lead for GST module implementation  
+- Technical lead for GST module  
 - Ensured accurate tax logic and reporting  
 - Coordinated with multiple departments and vendors  
 
@@ -96,9 +97,9 @@ I work ~80% on technology and ~20% on functional/business side, which helps me b
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
-### **Core Technical**
+### 🔹 Core Technical
 - SQL Server  
 - Database Design & ER Modeling  
 - Query Optimization & Performance Tuning  
@@ -107,14 +108,14 @@ I work ~80% on technology and ~20% on functional/business side, which helps me b
 - Patch Release Management  
 - Bug Handling & Production Support  
 
-### **Techno-Functional**
+### 🔹 Techno-Functional
 - Requirement Analysis  
 - Vendor Coordination  
 - User Training & Support  
 - Cross-Department Communication  
 - Documentation & Reporting  
 
-### **Tools & Technologies**
+### 🔹 Tools & Technologies
 - SQL Server  
 - Python  
 - FastAPI (current study & projects)  
@@ -125,11 +126,8 @@ I work ~80% on technology and ~20% on functional/business side, which helps me b
 
 ## 🎓 Education
 
-- **MS in Data Science**  
-  University of Europe for Applied Sciences, Berlin (Ongoing)
-
-- **MCA – Master of Computer Applications**  
-  Mumbai University
+- **MS in Data Science** – University of Europe for Applied Sciences, Berlin (Ongoing)  
+- **MCA – Master of Computer Applications** – Mumbai University  
 
 ---
 
@@ -144,23 +142,27 @@ I work ~80% on technology and ~20% on functional/business side, which helps me b
 
 ## 🏆 Achievements
 
-- **Best Employee Award – 2024**, Mirae Finance Group  
-- Successfully implemented multiple enterprise applications in finance domain  
-- Delivered trainings across major Indian cities  
-- Known for strong SQL skills and backend problem-solving  
+- 🏅 **Best Employee Award – 2024**, Mirae Finance Group  
+- ✅ Successfully implemented multiple enterprise applications in finance domain  
+- 🎤 Delivered trainings across major Indian cities  
+- 🧠 Recognized for strong **SQL** and **backend problem-solving**  
 
 ---
 
 ## 📊 GitHub Stats
 
-> Note: Stats will start showing properly as you add more repositories and activity.
+> Note: Stats will improve as I add more repositories and activity.
+
+<div align="center">
 
 ![Sandip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandipWaingade&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandipWaingade&layout=compact&theme=tokyonight)
 
+</div>
+
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
 - **GitHub:** [SandipWaingade](https://github.com/SandipWaingade)  
 - **Email:** _add your email here_  
