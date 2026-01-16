@@ -131,28 +131,45 @@ whether it's a backend service, a data pipeline, or a full enterprise module.
 
 ## 🛠️ Skills
 
-### 🔹 Core Technical
-- SQL Server  
-- Database Design & ER Modeling  
-- Query Optimization & Performance Tuning  
-- Backend Logic & Data Processing  
-- Data Migration  
-- Patch Release Management  
-- Bug Handling & Production Support  
+<div align="left">
 
-### 🔹 Techno-Functional
-- Requirement Analysis  
-- Vendor Coordination  
-- User Training & Support  
-- Cross-Department Communication  
-- Documentation & Reporting  
+### 🔹 **Core Technical**
+- 🗄️ **SQL Server** — Database design, indexing, performance tuning  
+- 📊 **Query Optimization** — Execution plans, tuning, large data handling  
+- 🧱 **Database Architecture** — ER modeling, schema design  
+- 🔄 **Data Migration** — ETL, validation, reconciliation  
+- 🐞 **Bug Analysis & Production Support** — Root-cause, patching, hotfixes  
 
-### 🔹 Tools & Technologies
-- SQL Server  
-- Python  
-- FastAPI (current study & projects)  
-- Machine Learning (academic)  
-- AI Automation (academic)  
+---
+
+### 🔹 **Backend Engineering**
+- 🐍 **Python** — Scripting, automation, backend logic  
+- ⚡ **FastAPI** — API development, async workflows  
+- 🔌 **REST APIs** — Design, integration, data pipelines  
+
+---
+
+### 🔹 **Data Science & AI**
+- 📈 **Data Science** — Data cleaning, preprocessing, analysis  
+- 🤖 **Machine Learning** — Model building (academic)  
+- 🧠 **AI Automation** — Practical ML/AI workflows (academic)  
+
+---
+
+### 🔹 **Techno-Functional**
+- 📝 **Requirement Analysis** — Translating business needs into technical tasks  
+- 🧩 **Cross-Department Coordination** — Business, users, vendors  
+- 🎤 **User Training & Support** — Workshops, onboarding  
+- 📑 **Documentation & Reporting** — Functional + technical clarity  
+
+---
+
+### 🔹 **Tools & Platforms**
+- 🧰 **Git** — Version control, branching  
+- 🐧 **Linux** — Commands, server handling  
+- 🛠️ **Enterprise Applications** — Class, TCS BaNCS, Marsh, KYC systems  
+
+</div>
 
 ---
 
