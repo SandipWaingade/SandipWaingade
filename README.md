@@ -22,26 +22,34 @@ that connects **business, users, and technology**.
 
 ## 🧠 About Me
 
-I’m a techno-functional IT professional with a strong foundation in **SQL, backend engineering, and enterprise system implementation**.  
-My work sits at the intersection of **technology, business logic, and real-world operations**, allowing me to deliver solutions that are both technically solid and business-ready.
+<div align="left">
 
-I’ve led IT teams, implemented critical financial applications, optimized databases, and managed full project lifecycles — from requirement analysis to go-live and production support.  
-My background across **finance, capital markets, and enterprise systems** gives me a deep understanding of how technology drives business outcomes.
+💼 **Techno-Functional IT Professional** with strong expertise in  
+**SQL, backend engineering, enterprise systems, and financial applications**.
 
-I’m currently pursuing my **MS in Data Science in Berlin**, expanding my expertise into **Machine Learning, AI, and advanced analytics**, while continuing to build strong backend and database-driven systems.
+🧩 I work at the intersection of **technology + business**, delivering solutions that are  
+**scalable, reliable, and aligned with real-world operations**.
 
-### What I bring:
-- Strong command over **SQL, database design, and performance tuning**  
-- Hands-on experience with **backend systems, APIs, and data workflows**  
-- Techno-functional mindset: **80% technical + 20% business**  
-- Experience leading teams, coordinating with vendors, and training users  
-- Ability to translate business needs into **clean, scalable technical solutions**  
-- Growing expertise in **Data Science, ML, and AI automation**
+🚀 Former **Manager – IT Department (Mirae Finance Group)** where I led a  
+**10-member team**, handled multi-application environments, vendor coordination,  
+and full project lifecycles.
 
-I enjoy building systems that are **robust, scalable, and meaningful** — whether it’s a backend service, a data pipeline, or a full enterprise module.
- 
+📊 Strong command over **SQL, database design, query optimization, data migration,  
+patch release, and production support**.
 
----
+🎓 Currently pursuing **MS in Data Science (Berlin)** and expanding into  
+**Machine Learning, AI, and advanced analytics**.
+
+🧠 My mindset:  
+- 80% **Technical depth**  
+- 20% **Functional understanding**  
+- 100% **Ownership & delivery**
+
+🔍 I enjoy building systems that are **robust, scalable, and meaningful** —  
+whether it's a backend service, a data pipeline, or a full enterprise module.
+
+</div>
+
 
 ## 🏅 Tech Stack
 
