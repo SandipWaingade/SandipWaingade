@@ -41,9 +41,7 @@ patch release, and production support**.
 **Machine Learning, AI, and advanced analytics**.
 
 🧠 My mindset:  
-- 80% **Technical depth**  
-- 20% **Functional understanding**  
-- 100% **Ownership & delivery**
+A problem-solving mindset shaped by strong technical foundations and solid functional insight, helping me bridge gaps between users, systems, and business goals.
 
 🔍 I enjoy building systems that are **robust, scalable, and meaningful** —  
 whether it's a backend service, a data pipeline, or a full enterprise module.
