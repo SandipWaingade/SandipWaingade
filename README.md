@@ -235,6 +235,6 @@ whether it's a backend service, a data pipeline, or a full enterprise module.
 ## 📫 Connect With Me
 
 - **GitHub:** [SandipWaingade](https://github.com/SandipWaingade)  
-- **Email:** _add your email here_  
-- **LinkedIn:** _add your LinkedIn profile link here_  
+- **Email:** Waingadesandeep@gmail.com 
+- **LinkedIn:** www.linkedin.com/in/sandip-waingade-72b190383 
 
