@@ -45,10 +45,12 @@ A problem-solving mindset shaped by strong technical foundations and solid funct
 
 🔍 I enjoy building systems that are **robust, scalable, and meaningful** —  
 whether it's a backend service, a data pipeline, or a full enterprise module.
-</div>
-## ▬▬▬▬▬  Tech Stack & Badges  ▬▬▬▬▬
 
 <div align="center">
+  
+## ▬▬▬▬▬  Tech Stack & Badges  ▬▬▬▬▬
+
+
 
 <!-- Modern Gradient Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="80%" />
