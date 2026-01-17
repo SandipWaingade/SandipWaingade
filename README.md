@@ -45,7 +45,7 @@ A problem-solving mindset shaped by strong technical foundations and solid funct
 
 🔍 I enjoy building systems that are **robust, scalable, and meaningful** —  
 whether it's a backend service, a data pipeline, or a full enterprise module.
-
+</div>
 ## ▬▬▬▬▬  Tech Stack & Badges  ▬▬▬▬▬
 
 <div align="center">
