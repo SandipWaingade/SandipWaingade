@@ -20,31 +20,26 @@ that connects **business, users, and technology**.
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-<div align="left">
+## About Me
 
-💼 **Techno-Functional IT Professional** with strong expertise in  
-**SQL, backend engineering, enterprise systems, and financial applications**.
+I am a Techno-Functional IT Professional with strong expertise in SQL engineering, backend development, enterprise systems, and financial applications. My work focuses on building solutions that are scalable, reliable, and aligned with real-world business operations.
 
-🧩 I work at the intersection of **technology + business**, delivering solutions that are  
-**scalable, reliable, and aligned with real-world operations**.
+I operate at the intersection of technology and business, translating functional requirements into robust technical architectures and ensuring seamless execution across teams and systems.
 
-🚀 Former **Manager – IT Department (Mirae Finance Group)** where I led a  
-**10-member team**, handled multi-application environments, vendor coordination,  
-and full project lifecycles.
+Previously, I served as Manager – IT Department at Mirae Finance Group, leading a 10-member engineering team, managing multi-application environments, coordinating with vendors, and delivering end-to-end project implementations across critical financial modules.
 
-📊 Strong command over **SQL, database design, query optimization, data migration,  
-patch release, and production support**.
+My core strengths include SQL, database design, performance optimization, data migration, patch release management, and production support, with a consistent track record of improving system stability and operational efficiency.
 
-🎓 Currently pursuing **MS in Data Science (Berlin)** and expanding into  
-**Machine Learning, AI, and advanced analytics**.
+I am currently pursuing an MS in Data Science in Berlin, expanding my capabilities in machine learning, artificial intelligence, and advanced analytics to build intelligent, data-driven systems.
 
-🧠 My mindset:  
-A problem-solving mindset shaped by strong technical foundations and solid functional insight, helping me bridge gaps between users, systems, and business goals.
+My approach is shaped by a strong problem-solving mindset, grounded in both technical depth and functional understanding. I excel at bridging gaps between users, systems, and business objectives to deliver solutions that create meaningful impact.
 
-🔍 I enjoy building systems that are **robust, scalable, and meaningful** —  
-whether it's a backend service, a data pipeline, or a full enterprise module.
+I am passionate about building systems that are robust, scalable, and purposeful—whether backend services, data pipelines, or full-scale enterprise modules.
+
+</div>
+
 
 
 
