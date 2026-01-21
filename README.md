@@ -39,18 +39,18 @@ My approach is shaped by a strong problem-solving mindset, grounded in both tech
 I am passionate about building systems that are robust, scalable, and purposeful—whether backend services, data pipelines, or full-scale enterprise modules.
 
 </div>
-
-
-
-
+<br><br>
 <div align="center">
   
 ## ▬▬▬▬▬  Tech Stack & Badges  ▬▬▬▬▬
 
 
-
 <!-- Modern Gradient Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="80%" />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="80%" />
+</div>
+
 
 <br><br>
 
