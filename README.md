@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#4FC3F7;">Sandip Waingade</span>  
+# Hi, I'm <span style="color:#4FC3F7;">Sandip Waingade</span>  
 ### Backend Engineer • SQL Specialist • Techno-Functional IT Professional  
 
 🎓 MS in Data Science (Berlin) • 🎓 MCA (Mumbai) • 🏆 Best Employee 2024  
