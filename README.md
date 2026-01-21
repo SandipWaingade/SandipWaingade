@@ -114,28 +114,28 @@ I am passionate about building systems that are robust, scalable, and purposeful
 ## 🧩 Key Projects
 
 ### 🏛️ GST Implementation – IDFC Finance Group  
-- Technical lead for GST module  
-- Ensured accurate tax logic and reporting  
-- Coordinated with multiple departments and vendors  
+ Technical lead for GST module  
+ Ensured accurate tax logic and reporting  
+ Coordinated with multiple departments and vendors  
 
 ### 🏦 TCS BaNCS Core System Implementation  
-- Replaced legacy Class application  
-- Managed data migration, UAT, and go-live  
-- Worked closely with business teams to validate flows  
+ Replaced legacy Class application  
+ Managed data migration, UAT, and go-live  
+ Worked closely with business teams to validate flows  
 
 ### 📊 Marsh Application – Exegesis  
-- Part of core implementation team  
-- Conducted end-user training across multiple cities  
-- Supported testing and rollout  
+ Part of core implementation team  
+ Conducted end-user training across multiple cities  
+ Supported testing and rollout  
 
 ### 📈 Class Application – Mirae Capital Market  
-- Implemented from scratch to go-live  
-- Added **MTF**, **AP**, and **GST** modules  
-- Extracted critical processes into separate applications for better performance and control  
+ Implemented from scratch to go-live  
+ Added **MTF**, **AP**, and **GST** modules  
+ Extracted critical processes into separate applications for better performance and control  
 
 ---
 
-<div align="left">
+<div align="center">
 
 ## Skills
 
