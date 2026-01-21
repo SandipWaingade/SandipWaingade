@@ -110,7 +110,7 @@ I am passionate about building systems that are robust, scalable, and purposeful
 
 </div>
 
-
+<br><br>
 ## 🧩 Key Projects
 
 ### 🏛️ GST Implementation – IDFC Finance Group  
@@ -220,7 +220,7 @@ I am passionate about building systems that are robust, scalable, and purposeful
 <br><br>
 ## 📫 Connect With Me
 
-- **GitHub:** [SandipWaingade](https://github.com/SandipWaingade)  
-- **Email:** Waingadesandeep@gmail.com 
-- **LinkedIn:** https://www.linkedin.com/in/sandip-waingade/
+ **GitHub:** [SandipWaingade](https://github.com/SandipWaingade)  
+ **Email:** Waingadesandeep@gmail.com 
+ **LinkedIn:** https://www.linkedin.com/in/sandip-waingade/
 
