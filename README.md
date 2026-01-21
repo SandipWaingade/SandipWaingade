@@ -135,47 +135,48 @@ I am passionate about building systems that are robust, scalable, and purposeful
 
 ---
 
-## 🛠️ Skills
-
 <div align="left">
 
-### 🔹 **Core Technical**
-- 🗄️ **SQL Server** — Database design, indexing, performance tuning  
-- 📊 **Query Optimization** — Execution plans, tuning, large data handling  
-- 🧱 **Database Architecture** — ER modeling, schema design  
-- 🔄 **Data Migration** — ETL, validation, reconciliation  
-- 🐞 **Bug Analysis & Production Support** — Root-cause, patching, hotfixes  
+## Skills
+
+### Core Technical
+- SQL Server — Database design, indexing, performance tuning  
+- Query Optimization — Execution plans, tuning strategies, large‑scale data handling  
+- Database Architecture — ER modeling, schema design, normalization  
+- Data Migration — ETL processes, validation, reconciliation  
+- Bug Analysis & Production Support — Root‑cause analysis, patching, hotfix management  
 
 ---
 
-### 🔹 **Backend Engineering**
-- 🐍 **Python** — Scripting, automation, backend logic  
-- ⚡ **FastAPI** — API development, async workflows  
-- 🔌 **REST APIs** — Design, integration, data pipelines  
+### Backend Engineering
+- Python — Scripting, automation, backend logic  
+- FastAPI — API development, asynchronous workflows  
+- REST APIs — Design, integration, and data pipeline development  
 
 ---
 
-### 🔹 **Data Science & AI**
-- 📈 **Data Science** — Data cleaning, preprocessing, analysis  
-- 🤖 **Machine Learning** — Model building (academic)  
-- 🧠 **AI Automation** — Practical ML/AI workflows (academic)  
+### Data Science & AI
+- Data Science — Data cleaning, preprocessing, exploratory analysis  
+- Machine Learning — Model development and evaluation (academic)  
+- AI Automation — Practical ML/AI workflow implementation (academic)  
 
 ---
 
-### 🔹 **Techno-Functional**
-- 📝 **Requirement Analysis** — Translating business needs into technical tasks  
-- 🧩 **Cross-Department Coordination** — Business, users, vendors  
-- 🎤 **User Training & Support** — Workshops, onboarding  
-- 📑 **Documentation & Reporting** — Functional + technical clarity  
+### Techno-Functional
+- Requirement Analysis — Converting business needs into actionable technical tasks  
+- Cross-Department Coordination — Collaboration with business teams, users, and vendors  
+- User Training & Support — Workshops, onboarding, functional guidance  
+- Documentation & Reporting — Clear functional and technical documentation  
 
 ---
 
-### 🔹 **Tools & Platforms**
-- 🧰 **Git** — Version control, branching  
-- 🐧 **Linux** — Commands, server handling  
-- 🛠️ **Enterprise Applications** — Class, TCS BaNCS, Marsh, KYC systems  
+### Tools & Platforms
+- Git — Version control, branching strategies  
+- Linux — Command-line operations, server handling  
+- Enterprise Applications — Class, TCS BaNCS, Marsh, KYC systems  
 
 </div>
+
 
 ---
 
