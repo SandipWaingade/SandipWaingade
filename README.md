@@ -84,29 +84,29 @@ I am passionate about building systems that are robust, scalable, and purposeful
 ## Experience Snapshot
 
 ### Manager – IT Department | Mirae Finance Group
-- Led a 10-member IT team, overseeing daily operations and cross-department coordination.
-- Managed vendor relationships and ensured smooth communication across business units.
-- Provided regular updates to senior management on IT issues, risks, and progress.
-- Implemented the Class application end-to-end, from requirement gathering to go-live.
-- Delivered new functional modules including MTF, AP, and GST.
-- Oversaw five major applications: Class, eSigner, MStack website, KYC onboarding platform, and internal operational tools.
-- Worked extensively on SQL databases, performance optimization, and backend logic.
+ Led a 10-member IT team, overseeing daily operations and cross-department coordination.
+ Managed vendor relationships and ensured smooth communication across business units.
+ Provided regular updates to senior management on IT issues, risks, and progress.
+ Implemented the Class application end-to-end, from requirement gathering to go-live.
+ Delivered new functional modules including MTF, AP, and GST.
+ Oversaw five major applications: Class, eSigner, MStack website, KYC onboarding platform, and internal operational tools.
+ Worked extensively on SQL databases, performance optimization, and backend logic.
 
 ---
 
 ### Senior Executive / Analyst | Exegesis
-- Contributed to the implementation of the Marsh application across multiple business units.
-- Delivered user training across Chennai, Delhi, Kolkata, and Lucknow.
-- Supported UAT, deployment, and post–go-live activities to ensure smooth adoption.
-- Acted as a liaison between end users and the technical development team.
+ Contributed to the implementation of the Marsh application across multiple business units.
+ Delivered user training across Chennai, Delhi, Kolkata, and Lucknow.
+ Supported UAT, deployment, and post–go-live activities to ensure smooth adoption.
+ Acted as a liaison between end users and the technical development team.
 
 ---
 
 ### IT Executive | IDFC Finance Group
-- Served as the technical owner for GST implementation across the organization.
-- Led the transition from the legacy Class application to TCS BaNCS.
-- Managed the full project lifecycle including data migration, UAT, and go-live.
-- Developed strong functional understanding of core banking workflows.
+ Served as the technical owner for GST implementation across the organization.
+ Led the transition from the legacy Class application to TCS BaNCS.
+ Managed the full project lifecycle including data migration, UAT, and go-live.
+ Developed strong functional understanding of core banking workflows.
 
 </div>
 
@@ -140,40 +140,40 @@ I am passionate about building systems that are robust, scalable, and purposeful
 ## Skills
 
 ### Core Technical
-- SQL Server — Database design, indexing, performance tuning  
-- Query Optimization — Execution plans, tuning strategies, large‑scale data handling  
-- Database Architecture — ER modeling, schema design, normalization  
-- Data Migration — ETL processes, validation, reconciliation  
-- Bug Analysis & Production Support — Root‑cause analysis, patching, hotfix management  
+ SQL Server — Database design, indexing, performance tuning  
+ Query Optimization — Execution plans, tuning strategies, large‑scale data handling  
+ Database Architecture — ER modeling, schema design, normalization  
+ Data Migration — ETL processes, validation, reconciliation  
+ Bug Analysis & Production Support — Root‑cause analysis, patching, hotfix management  
 
 ---
 
 ### Backend Engineering
-- Python — Scripting, automation, backend logic  
-- FastAPI — API development, asynchronous workflows  
-- REST APIs — Design, integration, and data pipeline development  
+ Python — Scripting, automation, backend logic  
+ FastAPI — API development, asynchronous workflows  
+ REST APIs — Design, integration, and data pipeline development  
 
 ---
 
 ### Data Science & AI
-- Data Science — Data cleaning, preprocessing, exploratory analysis  
-- Machine Learning — Model development and evaluation (academic)  
-- AI Automation — Practical ML/AI workflow implementation (academic)  
+ Data Science — Data cleaning, preprocessing, exploratory analysis  
+ Machine Learning — Model development and evaluation (academic)  
+ AI Automation — Practical ML/AI workflow implementation (academic)  
 
 ---
 
 ### Techno-Functional
-- Requirement Analysis — Converting business needs into actionable technical tasks  
-- Cross-Department Coordination — Collaboration with business teams, users, and vendors  
-- User Training & Support — Workshops, onboarding, functional guidance  
-- Documentation & Reporting — Clear functional and technical documentation  
+ Requirement Analysis — Converting business needs into actionable technical tasks  
+ Cross-Department Coordination — Collaboration with business teams, users, and vendors  
+ User Training & Support — Workshops, onboarding, functional guidance  
+ Documentation & Reporting — Clear functional and technical documentation  
 
 ---
 
 ### Tools & Platforms
-- Git — Version control, branching strategies  
-- Linux — Command-line operations, server handling  
-- Enterprise Applications — Class, TCS BaNCS, Marsh, KYC systems  
+ Git — Version control, branching strategies  
+ Linux — Command-line operations, server handling  
+ Enterprise Applications — Class, TCS BaNCS, Marsh, KYC systems  
 
 </div>
 
@@ -182,29 +182,29 @@ I am passionate about building systems that are robust, scalable, and purposeful
 
 ## 🎓 Education
 
-- **MS in Data Science** – University of Europe for Applied Sciences, Berlin (Ongoing)  
-- **MCA – Master of Computer Applications** – Mumbai University  
+ **MS in Data Science** – University of Europe for Applied Sciences, Berlin (Ongoing)  
+ **MCA – Master of Computer Applications** – Mumbai University  
 
 ---
 
 ## 📚 Academic & Study Projects
 
-- Machine Learning project  
-- AI Automation project  
-- Smart System project  
-- Sample database + API implementation using **FastAPI + SQL**  
+ Machine Learning project  
+ AI Automation project  
+ Smart System project  
+ Sample database + API implementation using **FastAPI + SQL**  
 
 ---
-
+<br><br>
 ## 🏆 Achievements
 
-- 🏅 **Best Employee Award – 2024**, Mirae Finance Group  
-- ✅ Successfully implemented multiple enterprise applications in finance domain  
-- 🎤 Delivered trainings across major Indian cities  
-- 🧠 Recognized for strong **SQL** and **backend problem-solving**  
+ 🏅 **Best Employee Award – 2024**, Mirae Finance Group  
+ ✅ Successfully implemented multiple enterprise applications in finance domain  
+ 🎤 Delivered trainings across major Indian cities  
+ 🧠 Recognized for strong **SQL** and **backend problem-solving**  
 
 ---
-
+<br><br>
 ## 📊 GitHub Stats
 
 > Note: Stats will improve as I add more repositories and activity.
@@ -217,10 +217,10 @@ I am passionate about building systems that are robust, scalable, and purposeful
 </div>
 
 ---
-
+<br><br>
 ## 📫 Connect With Me
 
 - **GitHub:** [SandipWaingade](https://github.com/SandipWaingade)  
 - **Email:** Waingadesandeep@gmail.com 
-- **LinkedIn:** www.linkedin.com/in/sandip-waingade-72b190383 
+- **LinkedIn:** https://www.linkedin.com/in/sandip-waingade/
 
