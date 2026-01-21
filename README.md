@@ -47,12 +47,7 @@ I am passionate about building systems that are robust, scalable, and purposeful
 
 <!-- Modern Gradient Divider -->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="120%" />
-</div>
 
-
-<br><br>
 
 ### Core Technical
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
