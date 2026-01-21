@@ -48,7 +48,7 @@ I am passionate about building systems that are robust, scalable, and purposeful
 <!-- Modern Gradient Divider -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="120%" />
 </div>
 
 
