@@ -77,44 +77,39 @@ I am passionate about building systems that are robust, scalable, and purposeful
 
 <br>
 
-<!-- Clean Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="60%" />
+---
+
+<div align="center">
+
+## Experience Snapshot
+
+### Manager – IT Department | Mirae Finance Group
+- Led a 10-member IT team, overseeing daily operations and cross-department coordination.
+- Managed vendor relationships and ensured smooth communication across business units.
+- Provided regular updates to senior management on IT issues, risks, and progress.
+- Implemented the Class application end-to-end, from requirement gathering to go-live.
+- Delivered new functional modules including MTF, AP, and GST.
+- Oversaw five major applications: Class, eSigner, MStack website, KYC onboarding platform, and internal operational tools.
+- Worked extensively on SQL databases, performance optimization, and backend logic.
+
+---
+
+### Senior Executive / Analyst | Exegesis
+- Contributed to the implementation of the Marsh application across multiple business units.
+- Delivered user training across Chennai, Delhi, Kolkata, and Lucknow.
+- Supported UAT, deployment, and post–go-live activities to ensure smooth adoption.
+- Acted as a liaison between end users and the technical development team.
+
+---
+
+### IT Executive | IDFC Finance Group
+- Served as the technical owner for GST implementation across the organization.
+- Led the transition from the legacy Class application to TCS BaNCS.
+- Managed the full project lifecycle including data migration, UAT, and go-live.
+- Developed strong functional understanding of core banking workflows.
 
 </div>
 
-
-
-
----
-
-## 🏢 Experience Snapshot
-
-### 👨‍💻 Manager – IT Department | Mirae Finance Group  
-- Led a **10-member IT team**  
-- Managed **vendor coordination** and **department-wise communication**  
-- Reported regularly to **management** on IT issues and progress  
-- Implemented **Class application** from scratch to go-live  
-- Added new modules: **MTF**, **AP**, **GST**  
-- Handled 5 key applications: Class, eSigner, MStack website, KYC onboarding app, internal tools  
-- Worked deeply on **SQL database**, performance, and backend logic  
-
----
-
-### 👨‍💻 Senior Executive / Analyst | Exegesis  
-- Part of **Marsh application** implementation team  
-- Delivered user training across **Chennai, Delhi, Kolkata, Lucknow**  
-- Supported UAT, deployment, and post-go-live support  
-- Acted as a bridge between **users** and **technical team**  
-
----
-
-### 👨‍💻 IT Executive | IDFC Finance Group  
-- Led **GST implementation** as technical owner  
-- Replaced legacy **Class application** with **TCS BaNCS**  
-- Managed full lifecycle: **data migration → UAT → go-live**  
-- Gained deep understanding of **banking workflows**  
-
----
 
 ## 🧩 Key Projects
 
